@@ -8,6 +8,7 @@ If you use this code or data, please cite:
 @inproceedings{liu2024llmhousing,
       title={Racial Steering by Large Language Models: A Prospective Audit of GPT-4 on Housing Recommendations}, 
       author={Eric Justin Liu and Wonyoung So and Peko Hosoi and Catherine D’Ignazio},
+      booktitle = {Proceedings of the 2024 Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO '24)},
       year={2024},
       location={San Luis Potosi, Mexico},
       publisher={ACM},
