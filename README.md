@@ -5,7 +5,7 @@ https://doi.org/10.1145/3689904.3694709
 
 If you use this code or data, please cite:
 ```
-@misc{liu2024llmhousing,
+@inproceedings{liu2024llmhousing,
       title={Racial Steering by Large Language Models: A Prospective Audit of GPT-4 on Housing Recommendations}, 
       author={Eric Justin Liu and Wonyoung So and Peko Hosoi and Catherine D’Ignazio},
       year={2024},
