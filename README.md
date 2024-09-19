@@ -22,4 +22,6 @@ If you use this code or data, please cite:
 
 ## Contents
 
-`Test`
+The `data` folder contains probability-of-recommendation (PoR) scores, estimated percent racial composition, and opportunity indices by neighborhood.
+
+The `code` folder contains a script to generate prompts employed in the study.
