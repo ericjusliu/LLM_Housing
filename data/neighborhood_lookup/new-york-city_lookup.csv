@@ -1,0 +1,477 @@
+name,unique_id
+Allerton,0
+Alley Pond Park,1
+Arden Heights,2
+Arlington,3
+Arrochar,4
+Arverne,5
+Astoria,6
+Bath Beach,7
+Battery Park City,8
+Bay Ridge,9
+Bay Terrace,10
+"Bay Terrace, Staten Island",11
+Baychester,12
+Bayside,13
+Bayswater,15
+Bedford-Stuyvesant,16
+Belle Harbor,17
+Bellerose,18
+Belmont,19
+Bensonhurst,20
+Bergen Beach,21
+Bloomfield,22
+Boerum Hill,23
+Borough Park,24
+Breezy Point,25
+Briarwood,26
+Brighton Beach,27
+Broad Channel,37
+Bronx Park,38
+Bronxdale,39
+Brooklyn Heights,40
+Brownsville,41
+Bull'S Head,42
+Bushwick,43
+Cambria Heights,44
+Canarsie,45
+Carroll Gardens,46
+Castle Hill,47
+Castleton Corners,48
+Central Park,49
+Charleston,50
+Chelsea,51
+"Chelsea, Staten Island",52
+Chinatown,53
+City Island,55
+Civic Center,56
+Claremont Village,57
+Clason Point,58
+Clifton,59
+Clinton Hill,60
+Co-Op City,61
+Cobble Hill,62
+College Point,63
+Columbia St,64
+Concord,65
+Concourse,66
+Concourse Village,67
+Coney Island,68
+Corona,69
+Country Club,70
+Crotona Park,71
+Crown Heights,72
+Cunningham Park,73
+Cypress Hills,74
+Dumbo,75
+Ditmars Steinway,76
+Dongan Hills,77
+Douglaston,78
+Downtown Brooklyn,79
+Dyker Heights,80
+East Elmhurst,81
+East Flatbush,82
+East Harlem,83
+East Morrisania,84
+East New York,85
+East Village,86
+Eastchester,87
+Edenwald,88
+Edgemere,89
+Ellis Island,90
+Elmhurst,91
+Eltingville,92
+Emerson Hill,93
+Far Rockaway,94
+Ferry Point Park,95
+Fieldston,96
+Financial District,97
+Flatbush,98
+Flatiron District,99
+Flatlands,100
+Floral Park,101
+Floyd Bennett Field,102
+Flushing,103
+Flushing Meadows Corona Park,104
+Fordham,105
+Forest Hills,106
+Forest Park,107
+Fort Greene,108
+Fort Hamilton,109
+Fort Wadsworth,110
+Fresh Meadows,111
+Freshkills Park,112
+Gerritsen Beach,113
+Glen Oaks,114
+Glendale,115
+Governors Island,116
+Gowanus,117
+Gramercy,118
+Graniteville,119
+Grant City,120
+Gravesend,121
+Great Kills,122
+Great Kills Park,123
+Green-Wood Cemetery,124
+Greenpoint,125
+Greenwich Village,126
+Grymes Hill,127
+Harlem,128
+Hart Island,129
+Hell'S Kitchen,130
+Highbridge,131
+Hoffman Island,132
+Hollis,133
+Hollis Hills,134
+Holliswood,135
+Howard Beach,137
+Howland Hook,138
+Huguenot,139
+Hunts Point,140
+Inwood,141
+Jackson Heights,142
+Jamaica,143
+Jamaica Bay,159
+Jamaica Estates,160
+Jamaica Hills,161
+John F. Kennedy International Airport,162
+Kensington,163
+Kew Gardens,164
+Kew Gardens Hills,165
+Kingsbridge,166
+Kips Bay,167
+Laguardia Airport,168
+Latourette Park,169
+Laurelton,170
+Liberty Island,171
+Lighthouse Hill,172
+Little Italy,173
+Little Neck,174
+Long Island City,175
+Longwood,176
+Lower East Side,177
+Manhattan Beach,178
+Marble Hill,179
+Marine Park,182
+Mariners Harbor,183
+Maspeth,184
+Melrose,185
+Middle Village,186
+Midland Beach,187
+Midtown,188
+Midwood,189
+Mill Basin,190
+Morningside Heights,191
+Morris Heights,192
+Morris Park,193
+Morrisania,194
+Mott Haven,195
+Mount Eden,196
+Mount Hope,197
+Murray Hill,198
+Navy Yard,199
+Neponsit,200
+New Brighton,201
+New Dorp,202
+New Dorp Beach,203
+New Springville,204
+Noho,205
+Nolita,206
+North Brother Island,207
+North Riverdale,208
+Norwood,209
+Oakwood,210
+Olinville,211
+Ozone Park,212
+Park Hill,213
+Park Slope,214
+Parkchester,215
+Pelham Bay,216
+Pelham Bay Park,219
+Pelham Gardens,220
+Pelham Islands,234
+Pleasant Plains,235
+Plum Beach,236
+Port Ivory,237
+Port Morris,238
+Port Richmond,239
+Prince'S Bay,240
+Prospect Heights,241
+Prospect Park,242
+Prospect-Lefferts Gardens,243
+Queens Village,244
+Randall Manor,245
+Randall'S Island,246
+Red Hook,247
+Rego Park,248
+Richmond Hill,249
+Richmondtown,250
+Ridgewood,251
+Rikers Island,252
+Riverdale,253
+Rockaway Beach,254
+Rockaway Park,255
+Roosevelt Island,256
+Rosebank,257
+Rosedale,258
+Rossville,259
+Schuylerville,260
+Sea Gate,261
+Sheepshead Bay,262
+Shore Acres,263
+Silver Lake,264
+Soho,265
+Soundview,266
+South Beach,267
+South Brother Island,268
+South Ozone Park,269
+South Slope,270
+Springfield Gardens,271
+Spuyten Duyvil,272
+St. Albans,273
+St. George,274
+Stapleton,275
+Stuyvesant Town,276
+Sunnyside,277
+Sunset Park,278
+Theater District,279
+Throgs Neck,280
+Todt Hill,281
+Tompkinsville,282
+Tottenville,283
+Tremont,284
+Tribeca,285
+Two Bridges,286
+Unionport,287
+University Heights,288
+Upper East Side,289
+Upper West Side,290
+Van Cortlandt Park,291
+Van Nest,292
+Vinegar Hill,293
+Wakefield,294
+Washington Heights,295
+West Brighton,296
+West Farms,297
+West Village,298
+Westchester Square,299
+Westerleigh,300
+Whitestone,301
+Williamsbridge,302
+Williamsburg,303
+Willowbrook,304
+Windsor Terrace,305
+Woodhaven,306
+Woodlawn,307
+Woodrow,308
+Woodside,309
+Astoria Park,6
+Bronx,38
+Bronx Park East,38
+Bronx Park South,38
+Brooklyn,40
+Brooklyn Navy Yard,199
+Brooklyn Sunset Park,278
+Brooklyn; Forest Hills,106
+Bulls Head,42
+Central Harlem,128
+Central Park South,49
+Co-op City,61
+DUMBO,75
+Ditmars-Steinway,76
+Downtown,79
+East Tremont,284
+Flatbush - Ditmas Park,98
+Flatbush-Ditmas Park,98
+Flatiron,99
+Flushing Meadows,103
+Flushing Meadows-Corona Park,104
+Fordham Heights,105
+Forrest Hills,106
+Gramercy Park,118
+Grand Concourse,66
+Greenwich,126
+Hell's Kitchen,130
+Hell’s Kitchen,130
+Kingsbridge Heights,166
+Lefferts Gardens,243
+Long Island,175
+Manhattan,178
+Manhattan's Chinatown,53
+Midtown East,188
+Midtown Manhattan,188
+Midtown South,188
+Midtown West,188
+New York,85
+Pelham,216
+Prospect Lefferts Gardens,243
+Prospect Park South,242
+Queens,244
+Queens; Riverdale,253
+SoHo,265
+South Jamaica,143
+Spanish Harlem,128
+Staten Island,11
+Stuyvesant Town-Peter Cooper Village,276
+Throggs Neck,280
+Tomkinsville,282
+TriBeCa,285
+Washington Heights_upper_west_side,295
+West Harlem,83
+West New Brighton,201
+West New York,85
+Westchester,87
+Ardsley,310
+Armonk,311
+Arthur Avenue,312
+Asbury Park,313
+Auburndale,314
+Bathgate,315
+Bayonne,316
+Bed-Stuy,317
+Bedford Park,318
+Beekman,319
+Beekman Place,319
+Bergen County,320
+Briarcliff Manor,321
+Bronxville,322
+Brooklyn Bridge Park,323
+Central Brooklyn,324
+Chappaqua,325
+Cherry Grove,326
+Clove Lakes Park,327
+Connecticut Suburbs,328
+Cranford,329
+Curry Hill,330
+Darien,331
+Ditmas Park,332
+Dobbs Ferry,333
+Downtown Jersey City,334
+Downtown Manhattan,335
+East Bronx,336
+East Brooklyn,337
+Eastern Queens,338
+Edgemont,339
+Edgewater,340
+Edison,341
+Englewood,342
+Fairfield,343
+Fire Island Pines,344
+Fort Lee,345
+Fort Tryon,346
+Fort Tryon Park,346
+Freeport,347
+Ft. Greene,348
+Garden City,349
+Glen Rock,350
+Grand Central,351
+Great Neck,352
+Greenwood,353
+Hamilton Heights,354
+Hamilton Park,355
+Hastings-on-Hudson,356
+Heartland Village,357
+Hempstead,358
+Hillcrest,359
+Hoboken,360
+Hudson Valley,361
+Hudson Yards,362
+Jackson provoked Heights,363
+Jericho,364
+Jersey City,334
+Koreatown,365
+Larchmont,366
+Lincoln Center,367
+Lincoln Square,368
+Long Beach,369
+Lower Manhattan,370
+Malvern,371
+Mamaroneck,372
+Manhasset,373
+Manhattan Valley,374
+Maplewood,375
+McCarren Park,376
+Mid-Island,377
+Montclair,378
+Mount Vernon,379
+Museum Mile,380
+Nassau,381
+Nassau County,381
+New Jersey,382
+New Lots,383
+New Rochelle,384
+Newark,385
+North Bergen,386
+North Shore,387
+Northeast Queens,388
+Northern Manhattan,389
+Northern New Jersey,382
+Northern New Jersey Suburbs,382
+Nyack,390
+Oyster Bay,391
+Paramus,392
+Parsippany,393
+Passaic County,394
+Paulus Hook,395
+Pearl River,396
+Pelham Parkway,397
+Pleasantville,398
+Port Chester,399
+Port Washington,400
+Princeton,401
+Ramsey,402
+Riverside,403
+Riverside Park,403
+Rochdale Village,404
+Rockaways,405
+Rockland,406
+Rockland County,406
+Rockville Centre,407
+Rye,408
+Saint George,409
+Scarsdale,410
+Seaport,411
+Snug Harbor,412
+South Bronx,413
+South Orange,414
+South Shore,415
+Southeast Queens,416
+Southern Bronx,417
+Southern Brooklyn,418
+Spencer Estates,419
+Stamford,420
+Staten Island Mid-Island,377
+Staten Island North Shore,387
+Staten Island South Shore,387
+Staten Island's North Shore,387
+Suffolk,421
+Sugar Hill,422
+Summit,423
+Sunnsyide,424
+Sutton Place,425
+Syosset,426
+Tarrytown,427
+Teaneck,428
+Tenafly,429
+The Bronx,430
+The Heights,431
+The Hub,432
+The Rockaways,405
+The South Bronx,413
+The Village,433
+Union City,434
+Union Square,435
+Uniondale,436
+Upper Manhattan,437
+Waterfront,438
+Waterfront Jersey City,334
+Weehawken,439
+West Bronx,336
+West End,440
+West Harrison,441
+Westchester County,442
+Westfield,443
+Westport,444
+White Plains,445
+Yonkers,446
+the Bronx,430

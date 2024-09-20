@@ -1,0 +1,410 @@
+name,unique_id
+Pennypack Park,0
+Overbrook,1
+Southwest Germantown,2
+East Parkside,3
+Germany Hill,4
+East Mount Airy,5
+Mechanicsville,6
+Dearnley Park,7
+Wissahickon Hills,8
+Wissinoming,9
+Bella Vista,10
+Allegheny West,11
+Glenwood,12
+Greenwich,13
+Francisville,14
+Penrose,15
+Powelton,16
+Garden Court,17
+Belmont,18
+Normandy Village,19
+Pennsport,20
+Stanton,21
+West Oak Lane,22
+Winchester Park,23
+Burholme,24
+Fern Rock,25
+Dunlap,26
+Melrose Park Gardens,27
+Franklinville,28
+Hawthorne,29
+Bartram Village,30
+East Poplar,31
+Bustleton,32
+Cedarbrook,33
+Ludlow,34
+Bridesburg,35
+East Falls,36
+North Central,37
+Port Richmond,38
+Grays Ferry,39
+Frankford,40
+Chestnut Hill,41
+Olney,42
+West Mount Airy,43
+Somerton,44
+Mantua,45
+Northeast Phila Airport,46
+Modena,47
+Roxborough Park,48
+Wissahickon Park,49
+Morrell Park,50
+Riverfront,51
+Pennypack,52
+Byberry,53
+West Torresdale,54
+Yorktown,55
+Parkwood Manor,56
+Aston-Woodbridge,57
+Franklin Mills,58
+Pennypack Woods,59
+Millbrook,60
+Crestmont Farms,61
+Academy Gardens,62
+Torresdale,63
+Lexington Park,64
+Rhawnhurst,65
+Fox Chase,66
+Oxford Circle,67
+Summerdale,68
+Crescentville,69
+Lawndale,70
+Sharswood,71
+Passyunk Square,72
+Northwood,73
+Holmesburg,74
+Mayfair,75
+Tacony,76
+Hartranft,77
+Andorra,78
+Manayunk,79
+Upper Roxborough,80
+Roxborough,81
+Nicetown,82
+Wissahickon,83
+Dickinson Narrows,84
+East Germantown,85
+Germantown - Morton,86
+Old Kensington,87
+West Central Germantown,88
+Germantown - Penn Knox,89
+Germantown - Westside,90
+Ogontz,91
+Wister,92
+Tioga,93
+East Oak Lane,94
+Feltonville,95
+Fairhill,96
+Richmond,97
+Hunting Park,98
+Juniata Park,99
+Brewerytown,100
+Harrowgate,101
+Upper Kensington,102
+Mcguire,103
+West Kensington,104
+Fishtown - Lower Kensington,105
+Northern Liberties,106
+Logan,107
+Society Hill,108
+Old City,109
+Chinatown,110
+Center City East,111
+Washington Square West,112
+Fairmount,113
+Spring Garden,114
+Logan Square,115
+Rittenhouse,116
+Fitler Square,117
+Graduate Hospital,118
+Point Breeze,119
+Queen Village,120
+Lower Moyamensing,121
+Whitman,122
+Industrial,123
+Southwest Schuylkill,124
+Clearview,125
+West Parkside,126
+Mill Creek,127
+Airport,128
+Paschall,129
+Spruce Hill,130
+West Powelton,131
+Kingsessing,132
+University City,133
+Haddington,134
+Carroll Park,135
+Haverford North,136
+Wynnefield Heights,137
+Cobbs Creek,138
+Walnut Hill,139
+Cedar Park,140
+Woodland Terrace,141
+Callowhill,142
+West Poplar,143
+Strawberry Mansion,144
+Packer Park,145
+East Park,146
+Wynnefield,147
+West Passyunk,148
+East Passyunk,149
+Newbold,150
+West Park,151
+Stadium District,152
+Navy Yard,153
+East Kensington,154
+Elmwood,155
+Girard Estates,156
+Eastwick,157
+Center City,111
+Center City West,111
+Chester,23
+City Center,111
+East Passyunk Area,149
+East Passyunk Avenue,149
+East Passyunk Crossing,149
+Elmwood Park,155
+Fairmount Park,113
+Fairmount-Art Museum Area,113
+Fairmount-Spring Garden,113
+Fishtown,105
+Germantown,2
+Girard Estate,156
+Gray's Ferry,39
+Greater Olney,42
+Haverford,136
+Juniata,99
+Kensington,87
+Mount Airy,5
+North Central Philadelphia,37
+North Liberties,106
+Northeast,46
+Northern Liberties.,106
+Oak Lane,22
+Olde Kensington,87
+Olde Richmond,97
+Olney-Oak Lane,42
+Overbrook Park,1
+Parkside,3
+Parkwood,56
+Passyunk,72
+Passyunk East,149
+Powelton Village,16
+Queens Village,120
+Rittenhouse Square,116
+Roxborough-Manayunk,79
+Washington Square,112
+Washington West,112
+West Mayfair,75
+Wissahickon Valley Park,49
+9th Street Italian Market Area,158
+Abington,159
+Abington Township,159
+Ambler,160
+Ardmore,161
+Art Museum,162
+Art Museum Area,162
+Art Museum District,162
+Art Museum area,162
+Avenue of the Arts,163
+Badlands,164
+Bala Cynwyd,165
+Baltimore Avenue,166
+Barrio,167
+Barrio de Avenida César Chávez,167
+Bensalem,168
+Blue Bell,169
+Blue Bell Hill,169
+Bristol,170
+Broomall,171
+Bryn Mawr,172
+Bucks County,173
+Camden,174
+Castor,175
+Castor Garden,175
+Castor Gardens,175
+Center City Gayborhood,176
+Central Bucks,177
+Central Philadelphia,178
+Cheltenham,179
+Cheltenham Township,179
+Cherry Hill,180
+Chester County,181
+Chesterbrook,182
+Clark Park,183
+Clifton Heights,184
+Collingdale,185
+Collingswood,186
+Conshohocken,187
+Darby,188
+Delaware County,189
+Delco,190
+Devon,191
+Devon-Berwyn,191
+Downingtown,192
+Doylestown,193
+Drexel Hill,194
+East Mt. Airy,195
+Eastern North Philadelphia,196
+Easttown,197
+El Centro de Oro,198
+Elkins Park,199
+Exton,200
+Far Northeast,201
+Flourtown,202
+Fort Washington,203
+Gayborhood,176
+Gladwyne,204
+Glenside,205
+Grad Hospital,206
+Great Valley,207
+Greater Center City,208
+Greater Center City Area,208
+Greater Center City.,208
+Greater Germantown,209
+Greater Kensington,210
+Greater North Philadelphia,196
+Greater Northeast,211
+Greater Northeast Philadelphia,196
+Gwynedd,212
+Haddonfield,213
+Haverford Township,214
+Havertown,215
+Headhouse Square,216
+Holme Circle,217
+Horsham,218
+Italian Market,158
+Italian Market Area,158
+Italian Market District,158
+Jenkintown,219
+Kennett Square,220
+King of Prussia,221
+Landsdowne,222
+Langhorne,223
+Lansdale,224
+Lansdowne,222
+Lawncrest,225
+Levittown,226
+Loft District,227
+Lower Bucks County,173
+Lower Italian Market,158
+Lower Merion,228
+Lower Merion Township,228
+Lower North Philadelphia,229
+Lower Northeast,230
+Lower Northeast Philadelphia,229
+Lower South,231
+M Northeast Philadelphia,196
+Main Line,232
+Main Line Suburbs,232
+Malvern,233
+Market East,234
+Marlton,235
+Medford,236
+Media,237
+Media.,237
+Merion,228
+Merion Station,228
+Midtown Village,238
+Montgomery County,239
+Moorestown,240
+Mount Laurel,241
+Mt Airy,242
+Mt. Airy,242
+Museum District,162
+Narberth,243
+Naval Square,244
+New Hope,245
+New Kensington,246
+Newtown,247
+Newtown Square,247
+Norris Square,248
+Norristown,249
+North 5th Street,250
+North East Philadelphia,196
+North East Philly,251
+North Philadelphia,196
+North Philadelphia East,196
+North Philly,251
+North Wales,252
+North-East Philadelphia,196
+Northeast Philadelphia,196
+Northeast Philly,251
+Northern Philadelphia,196
+Northwest,253
+Northwest Philadelphia,196
+Northwest Philly,251
+Oregon Avenue,254
+Paoli,255
+Parkway Museum District,162
+Paschkoville,256
+Passyunk Avenue,257
+Passyunk Avenue corridor,257
+Penn Alexander School catchment area,258
+Penn Wynne,259
+Philadelphia Gayborhood,176
+Phoenixville,260
+Plymouth Meeting,261
+Pottstown,262
+Radnor,263
+Radnor Township,263
+Reading Terminal Market,264
+Richboro,265
+Ridley Park,266
+Riverwards,267
+South 9th Street Italian Market,158
+South Ardmore,161
+South Jersey,268
+South Kensington,269
+South Philadelphia,270
+South Philly,271
+South Philly East,271
+South Street,272
+South of South,273
+Southwark,274
+Southwest Center City,275
+Southwest Philadelphia,196
+Southwest Philly,276
+Sports Complex District,277
+Springfield,278
+Squirrel Hill,279
+Swarthmore,280
+Swathmore,280
+Swedesboro,281
+Temple Area,282
+Temple University,283
+Temple University Area,283
+Temple University area,283
+The Gayborhood,176
+The Main Line,232
+Tredyffrin,284
+Tredyffrin-Easttown,197
+Trevose,285
+Trolley Square,286
+University District,287
+Upper Darby,188
+Upper Darby Township,188
+Upper Dublin,288
+Upper North,289
+Upper North District,289
+Upper North Philadelphia,196
+Upper North Philadelphia.,196
+Upper Northeast,290
+Villanova,291
+Voorhees,292
+Voorhees Township,292
+Wallingford,293
+Wallingford-Swarthmore,280
+Wayne,294
+West Chester,295
+West Mt. Airy,195
+West Philadelphia,296
+West Philly,297
+William Penn Annex East,298
+Willingboro,299
+Wilmington,300
+Wyndmoor,301
+Wynnewood,302
+Yardley,303
+Yeadon,304
