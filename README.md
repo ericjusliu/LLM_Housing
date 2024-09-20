@@ -22,6 +22,6 @@ If you use this code or data, please cite:
 
 ## Contents
 
-The `data` folder contains probability-of-recommendation (PoR) scores, estimated percent racial composition, and opportunity indices by neighborhood.
+The `data` folder contains GPT-4 probability-of-recommendation (PoR) scores, estimated percent racial composition, and opportunity index by neighborhood.
 
 The `code` folder contains a script to generate prompts employed in the study.
