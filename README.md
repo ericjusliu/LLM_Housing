@@ -22,6 +22,6 @@ If you use this code or data, please cite:
 
 ## Contents
 
-The `data` folder contains all prompts employed in the study (along with metadata), and GPT-4 probability-of-recommendation (PoR) scores, estimated percent racial composition, and opportunity index by neighborhood.
+The `data` folder contains all prompts employed in the study (along with metadata), and GPT-4 probability-of-recommendation (PoR) scores, estimated percent racial composition, and opportunity index by neighborhood in the 10 largest majority-minority cities in the United States.
 
-The `code` folder contains a script to generate prompts employed in the study.
+The `code` folder contains the script used to generate prompts employed in the study.
